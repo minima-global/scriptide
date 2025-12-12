@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    /* Basic options */
+    "composite": true,
+
+    /* Mappings */
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+
+    /* Bundler mode */
+    "jsx": "react-jsx"
+  }
+}
